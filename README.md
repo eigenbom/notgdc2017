@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## #NotGDC 2017
 
-You can use the [editor on GitHub](https://github.com/eigenbom/notgdc2017/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Here are a collection of short non-talks for the #NotGDC non-conference, running from 27th Feb until 4th March, 2017. Everyone is welcome and encouraged to submit something for this list. A non-talk can be anything game development related, for example:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Some rough notes on a recent thought you've had;
+- A more developer article about something that inspires you;
+- Some sketches for a game idea you might work on; or
+- A video or podcast ranting about fake gamedev and other amazing topics.
 
-### Markdown
+Share you submission on twitter with the #NotGDC hashtag and cc me into it ([@eigenbom](twitter.com/eigenbom)). Submissions are open while GDC is running.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### The Non-Talks
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/eigenbom/notgdc2017/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [Dynamic vs Static Procedural Generation](https://medium.com/@eigenbom/dynamic-vs-static-procedural-generation-ed3e7a7a68a3#.gcktnmuqm) by [@eigenbom](twitter.com/eigenbom)
+- TBC
