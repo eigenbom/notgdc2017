@@ -15,4 +15,5 @@ Share you submission on twitter with the #NotGDC hashtag and CC me ([@eigenbom](
 
 - [Dynamic vs Static Procedural Generation](https://medium.com/@eigenbom/dynamic-vs-static-procedural-generation-ed3e7a7a68a3#.gcktnmuqm) by [@eigenbom](https://twitter.com/eigenbom)
 - [MR. POD Episode 20 - Sandy is going to miss GDC](https://www.youtube.com/watch?v=nraubEEqAyc) by [@wtfmig](https://twitter.com/wtfmig)
+- More to come!
  
