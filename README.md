@@ -1,15 +1,15 @@
 ## #NotGDC 2017
 
-A collection of short non-talks for the #NotGDC non-conference. 
+Here is a collection of short non-talks for the [#NotGDC non-conference](https://twitter.com/eigenbom/status/835673367424315393). 
 
-Everyone is welcome and encouraged to submit something for this list. A non-talk can be anything game development related, for example:
+Everyone is welcome and encouraged to submit something. A non-talk can be anything game development related, for example:
 
 - Some rough notes on a recent thought you've had;
-- A more developer article about something that inspires you;
+- A detailed article about a technical concept;
 - Some sketches for a game idea you might work on; or
 - A video or podcast ranting about fake gamedev and other amazing topics.
 
-Share you submission on twitter with the #NotGDC hashtag and cc me into it ([@eigenbom](https://twitter.com/eigenbom)). Submissions are open while GDC is running.
+Share you submission on twitter with the #NotGDC hashtag and CC me ([@eigenbom](https://twitter.com/eigenbom)). Submissions are open while GDC is running.
 
 ### The Non-Talks
 
