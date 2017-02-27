@@ -16,5 +16,5 @@ Share you submission on twitter with the #NotGDC hashtag and CC me ([@eigenbom](
 - [Dynamic vs Static Procedural Generation](https://medium.com/@eigenbom/dynamic-vs-static-procedural-generation-ed3e7a7a68a3#.gcktnmuqm) by [@eigenbom](https://twitter.com/eigenbom)
 - [MR. POD Episode 20 - Sandy is going to miss GDC](https://www.youtube.com/watch?v=nraubEEqAyc) by [@wtfmig](https://twitter.com/wtfmig)
 - [Preventing Burnout](http://alexhoratiogamedev.blogspot.com.au/2016/12/preventing-burnout.html) by [@AlexHoratio_](https://twitter.com/AlexHoratio_)
-- [How to make an icon using Gimp](https://docs.google.com/document/d/185rrlDM43thsuGvyXuCcAjEZ8YtaWRoYsAtYOeC_btI/) by @Tartle_Games(https://twitter.com/Tartle_Games)
+- [How to make an icon using Gimp](https://docs.google.com/document/d/185rrlDM43thsuGvyXuCcAjEZ8YtaWRoYsAtYOeC_btI/) by [@Tartle_Games](https://twitter.com/Tartle_Games)
 - More to come!
