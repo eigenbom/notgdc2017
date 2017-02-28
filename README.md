@@ -18,5 +18,5 @@ Share you submission on twitter with the #NotGDC hashtag and CC me ([@eigenbom](
 - [Preventing Burnout](http://alexhoratiogamedev.blogspot.com.au/2016/12/preventing-burnout.html) by [@AlexHoratio_](https://twitter.com/AlexHoratio_)
 - [How to make an icon using Gimp](https://docs.google.com/document/d/185rrlDM43thsuGvyXuCcAjEZ8YtaWRoYsAtYOeC_btI/) by [@Tartle_Games](https://twitter.com/Tartle_Games)
 - [Videogames and Genre](http://ludodissonance.com/post/157777079398/videogames-and-genre-a-brief-rambling) by [@Sumaleth](https://twitter.com/Sumaleth)
-- [Why Presence is the New Frontier of VR Game Design](https://virtualrealitypop.com/why-presence-is-the-new-frontier-of-vr-game-design-286c73ebc6fd#.rkr48yv8y) by (@aquito)[https://twitter.com/aquito]
+- [Why Presence is the New Frontier of VR Game Design](https://virtualrealitypop.com/why-presence-is-the-new-frontier-of-vr-game-design-286c73ebc6fd#.rkr48yv8y) by [@aquito](https://twitter.com/aquito)
 - More to come!
