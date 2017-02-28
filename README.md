@@ -13,6 +13,7 @@ Share you submission on twitter with the #NotGDC hashtag and CC me ([@eigenbom](
 
 ### The Non-Talks
 
+- [Rapid Fire Session](https://twitter.com/eigenbom/status/836364085692260352) - A twitter thread containing dozens of great gamedev tips!
 - [Dynamic vs Static Procedural Generation](https://medium.com/@eigenbom/dynamic-vs-static-procedural-generation-ed3e7a7a68a3#.gcktnmuqm) by [@eigenbom](https://twitter.com/eigenbom)
 - [MR. POD Episode 20 - Sandy is going to miss GDC](https://www.youtube.com/watch?v=nraubEEqAyc) by [@wtfmig](https://twitter.com/wtfmig)
 - [Preventing Burnout](http://alexhoratiogamedev.blogspot.com.au/2016/12/preventing-burnout.html) by [@AlexHoratio_](https://twitter.com/AlexHoratio_)
