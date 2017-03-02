@@ -24,4 +24,5 @@ Share you submission on twitter with the #NotGDC hashtag and CC me ([@eigenbom](
 - [What I learned from doing Ludum Dare 13 times in a row!](http://blog.banyango.com/post/157808495144/what-i-learned-from-doing-ludum-dare-13-times-in-a) by [@savethejets](https://twitter.com/savethejets)
 - [Don't trust the engine](https://github.com/radgeRayden/blog/issues/1) by [@radgeRayden](https://twitter.com/radgeRayden)
 - [Mod Support in Unity](http://nihilocrat.tumblr.com/post/157890290188/mod-support-in-unity) by [@nihilocrat](https://twitter.com/nihilocrat)
+- [HOW A MS PRODUCT IN UNITY MAY SAVE YOUR 3D AUDIO](https://www.jealousaudio.com/chronicles-of-jellis/unityspatialaudio) by [@jealousaudio](https://mobile.twitter.com/jealousaudio)
 - More to come!
