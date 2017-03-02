@@ -23,4 +23,5 @@ Share you submission on twitter with the #NotGDC hashtag and CC me ([@eigenbom](
 - [Pitch-Shift Is Not Going to Solve All of Your Problems](http://www.zanderhulmemusic.com/notgdc) by [@zanhulmemusic](https://twitter.com/zanhulmemusic)
 - [What I learned from doing Ludum Dare 13 times in a row!](http://blog.banyango.com/post/157808495144/what-i-learned-from-doing-ludum-dare-13-times-in-a) by [@savethejets](https://twitter.com/savethejets)
 - [Don't trust the engine](https://github.com/radgeRayden/blog/issues/1) by [@radgeRayden](https://twitter.com/radgeRayden)
+- [Mod Support in Unity](http://nihilocrat.tumblr.com/post/157890290188/mod-support-in-unity) by [@nihilocrat](https://twitter.com/nihilocrat)
 - More to come!
