@@ -26,4 +26,5 @@ Share you submission on twitter with the #NotGDC hashtag and CC me ([@eigenbom](
 - [Mod Support in Unity](http://nihilocrat.tumblr.com/post/157890290188/mod-support-in-unity) by [@nihilocrat](https://twitter.com/nihilocrat)
 - [HOW A MS PRODUCT IN UNITY MAY SAVE YOUR 3D AUDIO](https://www.jealousaudio.com/chronicles-of-jellis/unityspatialaudio) by [@jealousaudio](https://mobile.twitter.com/jealousaudio)
 - [Streamlining unity dev with some hacky tools](https://www.youtube.com/watch?v=sNVT7hynBYw) by [@DuzzOnDrums](https://twitter.com/DuzzOnDrums) of Powerhoof.
+- [Special Presentation](https://www.youtube.com/watch?v=zYz-mocC_HU) by [@SunraHeadgear](https://twitter.com/SunraHeadgear)
 - More to come!
