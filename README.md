@@ -27,4 +27,5 @@ Share you submission on twitter with the #NotGDC hashtag and CC me ([@eigenbom](
 - [HOW A MS PRODUCT IN UNITY MAY SAVE YOUR 3D AUDIO](https://www.jealousaudio.com/chronicles-of-jellis/unityspatialaudio) by [@jealousaudio](https://mobile.twitter.com/jealousaudio)
 - [Streamlining unity dev with some hacky tools](https://www.youtube.com/watch?v=sNVT7hynBYw) by [@DuzzOnDrums](https://twitter.com/DuzzOnDrums) of Powerhoof.
 - [Special Presentation](https://www.youtube.com/watch?v=zYz-mocC_HU) by [@SunraHeadgear](https://twitter.com/SunraHeadgear)
+- [My experience making game for YouTubers (and failing)](https://tristan-shatley.tumblr.com/post/157934962275/my-experience-making-game-for-youtubers-and) by [@shatley123](https://twitter.com/shatley123)
 - More to come!
