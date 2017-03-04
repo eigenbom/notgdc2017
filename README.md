@@ -1,6 +1,6 @@
 ## #NotGDC 2017
 
-Here is a collection of short non-talks for the [#NotGDC non-conference](https://twitter.com/eigenbom/status/835673367424315393) that ran in 2017. Submissions are closed. Follow me on ([@eigenbom](https://twitter.com/eigenbom)) for future non-conferences.
+Here is a collection of short non-talks for the [#NotGDC non-conference](https://twitter.com/eigenbom/status/835673367424315393) that ran in 2017. Submissions are closed. Follow me on [@eigenbom](https://twitter.com/eigenbom) for future non-conferences.
 
 - [Rapid Fire Session](https://twitter.com/eigenbom/status/836364085692260352) - A twitter thread with great gamedev tips!
 - [Dynamic vs Static Procedural Generation](https://medium.com/@eigenbom/dynamic-vs-static-procedural-generation-ed3e7a7a68a3#.gcktnmuqm) by [@eigenbom](https://twitter.com/eigenbom)
