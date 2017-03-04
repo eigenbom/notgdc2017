@@ -14,7 +14,7 @@ Here is a collection of short non-talks for the [#NotGDC non-conference](https:/
 - [Don't trust the engine](https://github.com/radgeRayden/blog/issues/1) by [@radgeRayden](https://twitter.com/radgeRayden)
 - [Mod Support in Unity](http://nihilocrat.tumblr.com/post/157890290188/mod-support-in-unity) by [@nihilocrat](https://twitter.com/nihilocrat)
 - [HOW A MS PRODUCT IN UNITY MAY SAVE YOUR 3D AUDIO](https://www.jealousaudio.com/chronicles-of-jellis/unityspatialaudio) by [@jealousaudio](https://mobile.twitter.com/jealousaudio)
-- [Streamlining unity dev with some hacky tools](https://www.youtube.com/watch?v=sNVT7hynBYw) by [@DuzzOnDrums](https://twitter.com/DuzzOnDrums) of Powerhoof.
+- [Streamlining unity dev with some hacky tools](https://www.youtube.com/watch?v=sNVT7hynBYw) by [@DuzzOnDrums](https://twitter.com/DuzzOnDrums)
 - [Special Presentation](https://www.youtube.com/watch?v=zYz-mocC_HU) by [@SunraHeadgear](https://twitter.com/SunraHeadgear)
 - [My experience making game for YouTubers (and failing)](https://tristan-shatley.tumblr.com/post/157934962275/my-experience-making-game-for-youtubers-and) by [@shatley123](https://twitter.com/shatley123)
 - [Bucket Grids](http://www.1bardesign.com/words/?p=2017.001) by [@1bardesign](https://twitter.com/1bardesign)
