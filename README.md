@@ -1,17 +1,6 @@
 ## #NotGDC 2017
 
-Here is a collection of short non-talks for the [#NotGDC non-conference](https://twitter.com/eigenbom/status/835673367424315393). 
-
-Everyone is welcome and encouraged to submit something. A non-talk can be anything game development related, for example:
-
-- Some rough notes on a recent thought you've had;
-- A detailed article about a technical concept;
-- Some sketches for a game idea you might work on; or
-- A video or podcast ranting about fake gamedev and other amazing topics.
-
-Share you submission on twitter with the #NotGDC hashtag and CC me ([@eigenbom](https://twitter.com/eigenbom)). Submissions are open while GDC is running.
-
-### The Non-Talks
+Here is a collection of short non-talks for the [#NotGDC non-conference](https://twitter.com/eigenbom/status/835673367424315393) that ran in 2017. Submissions are closed. Follow me on ([@eigenbom](https://twitter.com/eigenbom)) for future non-conferences.
 
 - [Rapid Fire Session](https://twitter.com/eigenbom/status/836364085692260352) - A twitter thread with great gamedev tips!
 - [Dynamic vs Static Procedural Generation](https://medium.com/@eigenbom/dynamic-vs-static-procedural-generation-ed3e7a7a68a3#.gcktnmuqm) by [@eigenbom](https://twitter.com/eigenbom)
@@ -30,4 +19,3 @@ Share you submission on twitter with the #NotGDC hashtag and CC me ([@eigenbom](
 - [My experience making game for YouTubers (and failing)](https://tristan-shatley.tumblr.com/post/157934962275/my-experience-making-game-for-youtubers-and) by [@shatley123](https://twitter.com/shatley123)
 - [Bucket Grids](http://www.1bardesign.com/words/?p=2017.001) by [@1bardesign](https://twitter.com/1bardesign)
 - [How To Make Game Subtitles Better](http://benhumphreys.co.uk/blog/2017/03/02/subtitles.html) by [@benhumphreys](https://twitter.com/benhumphreys)
-- More to come!
