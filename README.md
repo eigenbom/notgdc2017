@@ -28,4 +28,6 @@ Share you submission on twitter with the #NotGDC hashtag and CC me ([@eigenbom](
 - [Streamlining unity dev with some hacky tools](https://www.youtube.com/watch?v=sNVT7hynBYw) by [@DuzzOnDrums](https://twitter.com/DuzzOnDrums) of Powerhoof.
 - [Special Presentation](https://www.youtube.com/watch?v=zYz-mocC_HU) by [@SunraHeadgear](https://twitter.com/SunraHeadgear)
 - [My experience making game for YouTubers (and failing)](https://tristan-shatley.tumblr.com/post/157934962275/my-experience-making-game-for-youtubers-and) by [@shatley123](https://twitter.com/shatley123)
+- [Bucket Grids](http://www.1bardesign.com/words/?p=2017.001) by [@1bardesign](https://twitter.com/1bardesign)
+- [How To Make Game Subtitles Better](http://benhumphreys.co.uk/blog/2017/03/02/subtitles.html) by [@benhumphreys](https://twitter.com/benhumphreys)
 - More to come!
