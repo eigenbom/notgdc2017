@@ -18,5 +18,5 @@ Here is a collection of short non-talks for the [#NotGDC non-conference](https:/
 - [Special Presentation](https://www.youtube.com/watch?v=zYz-mocC_HU) by [@SunraHeadgear](https://twitter.com/SunraHeadgear)
 - [My Experience Making a Game for YouTubers (and Failing)](https://tristan-shatley.tumblr.com/post/157934962275/my-experience-making-game-for-youtubers-and) by [@shatley123](https://twitter.com/shatley123)
 - [Bucket Grids](http://www.1bardesign.com/words/?p=2017.001) by [@1bardesign](https://twitter.com/1bardesign)
-- [How To Make Game Subtitles Better](http://benhumphreys.co.uk/blog/2017/03/02/subtitles.html) by [@benhumphreys](https://twitter.com/benhumphreys)
+- [How To Make Game Subtitles Better](http://benhumphreys.co.uk/blog/2017/03/02/subtitles/) by [@benhumphreys](https://twitter.com/benhumphreys)
 - [The Problem with Deep Reading Videogames](http://ludodissonance.com/post/157971351418/the-problem-with-deep-reading-videogames) by [@Sumaleth](https://twitter.com/Sumaleth)
